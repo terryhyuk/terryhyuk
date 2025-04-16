@@ -1,19 +1,8 @@
 ## 💻 My Skills
 
-**Language**  
-Dart, Swift, Python
-
-**DB**  
-Firebase, Hive SQL, MySQL, PostgreSQL, SQLite
-
-**Framework**  
-Flutter, Flask
-
-**IDE**  
-Visual Studio Code, Xcode
-
-**Tool**  
-Git, Github, Fork, Figma, Miro, Slack
+| **Language** | **DB** | **Framework** | **IDE** | **Tool** |
+|--------------|--------|---------------|---------|----------|
+| Dart         | Firebase<br>Hive SQL<br>MySQL<br>PostgreSQL<br>SQLite | Flutter<br>Flask | Visual Studio Code<br>Xcode | Git<br>Github<br>Fork<br>Figma<br>Miro<br>Slack |
 
 ---
 
