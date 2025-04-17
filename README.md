@@ -67,7 +67,3 @@ Passionate about building robust and scalable systems. 🚀
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 
 ---
-
-## 📊 GitHub Stats
-
-![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=radical)
