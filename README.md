@@ -14,16 +14,16 @@ Passionate about building robust and scalable systems. 🚀
 ## 🚀 FLUTTER PROJECT
 
 - [Todo List - 오늘잊은거없나](https://github.com/yourusername/todo-list)  
-  할 일을 관리하고 알림을 받을 수 있는 앱입니다.
+  A to-do list app with reminder notifications.
 
 - [CalmLake](https://github.com/yourusername/calmlake)  
-  명상과 휴식을 위한 모바일 앱입니다.
+  A mobile app for meditation and relaxation.
 
 - [Hangang Park analysis](https://github.com/yourusername/hangang-park-analysis)  
-  한강공원 데이터를 분석하는 프로젝트입니다.
+  A project analyzing data from Hangang Park.
 
 - [LUCKY DEPOT (Web)](https://github.com/yourusername/lucky-depot)  
-  플러터로 만든 웹 기반 서비스입니다.
+  A web service built with Flutter.
 
 ---
 
