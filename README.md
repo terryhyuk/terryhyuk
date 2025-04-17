@@ -13,23 +13,25 @@ Passionate about building robust and scalable systems. 🚀
 
 ## 🚀 FLUTTER PROJECT
 
-- [Todo List - 오늘잊은거없나](https://github.com/yourusername/todo-list)  
+- [Todo List - 오늘잊은거없나](https://github.com/glgl-1/todo_android)  
   A to-do list app with reminder notifications.
 
-- [CalmLake](https://github.com/yourusername/calmlake)  
+- [CalmLake](https://github.com/terryhyuk/calmlake)  
   A mobile app for meditation and relaxation.
 
-- [Hangang Park analysis](https://github.com/yourusername/hangang-park-analysis)  
+- [Hangang Park analysis](https://github.com/terryhyuk/HanGang_Mate)  
   A project analyzing data from Hangang Park.
 
-- [LUCKY DEPOT (Web)](https://github.com/yourusername/lucky-depot)  
+- [LUCKY DEPOT (Web)](https://github.com/terryhyuk/LuckDepot)  
   A web service built with Flutter.
 
+- [Musteat Place](https://github.com/terryhyuk/musteatplace)
+  An app for saving and sharing your favorite restaurants.
 ---
 
 ## 🍏 SWIFT PROJECT
 
-- [Subway Digital Poster Ad](https://github.com/yourusername/subway-poster-ad)  
+- [Subway Digital Poster Ad](https://github.com/terryhyuk/Subway-Digital-Poster-Ad)  
   지하철 디지털 포스터 광고 앱입니다.
 
 ---
