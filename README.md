@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=TERRY%20YOON&fontSize=40" />
 
-🌱 Aspiring backend developer, learning Python and Flutter. 📱🐍  
+🌱 Passionate Software Developer specializing in Flutter & Python 📱🐍  
 Passionate about building robust and scalable systems. 🚀
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-yellow?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yonghyuk.terry.yoon@gmail.com)](mailto:yonghyuk.terry.yoon@gmail.com)
@@ -33,7 +33,7 @@ Passionate about building robust and scalable systems. 🚀
 - [Musteat Place](https://github.com/terryhyuk/musteatplace)
   An app for saving and sharing your favorite restaurants.
 
-  - [Todo List - 오늘잊은거없나](https://github.com/glgl-1/todo_android)  
+- [Todo List - 오늘잊은거없나](https://github.com/glgl-1/todo_android)  
   A to-do list app with reminder notifications.
 
 ---
