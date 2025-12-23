@@ -17,20 +17,25 @@ Passionate about building robust and scalable systems. 🚀
   **Key Features:** Multi-language support (KO, EN, JP, CN), SQLite local storage, and intuitive data visualization.
   **Tech Stack:** Flutter, Dart, SQLite, GetX.
 
-- [Todo List - 오늘잊은거없나](https://github.com/glgl-1/todo_android)  
-  A to-do list app with reminder notifications.
+- [**HanGang-Mate**](https://github.com/terryhyuk/HanGang_Mate) 🌊
+  **Key Features:** Real-time parking congestion prediction using **Machine Learning** and a real-time admin chat system.
+  **My Roles:** Data preprocessing (Python), ML model development (scikit-learn), and building the **FastAPI** prediction server.
+  **Tech Stack:** Flutter, Python, FastAPI, Firebase, scikit-learn.
+
+- [**Lucky Depot - Admin Web & Logistics System**](https://github.com/terryhyuk/LuckDepot) 📦
+  **Key Features:** Integrated logistics management with **responsive Admin Web**, real-time delivery date prediction, and product search using images.
+  **My Roles:** Developed the entire Admin Web (Dashboard, Sales Analytics, Product/Driver Mgt) using **MVVM architecture** and implemented **data visualization** with Syncfusion.
+  **Tech Stack:** Flutter Web, Dart, Hive, PostgreSQL, Docker, Syncfusion Charts.
 
 - [CalmLake](https://github.com/terryhyuk/calmlake)  
   A mobile app for meditation and relaxation.
 
-- [Hangang Park analysis](https://github.com/terryhyuk/HanGang_Mate)  
-  A project analyzing data from Hangang Park.
-
-- [LUCKY DEPOT (Web)](https://github.com/terryhyuk/LuckDepot)  
-  A web service built with Flutter.
-
 - [Musteat Place](https://github.com/terryhyuk/musteatplace)
   An app for saving and sharing your favorite restaurants.
+
+  - [Todo List - 오늘잊은거없나](https://github.com/glgl-1/todo_android)  
+  A to-do list app with reminder notifications.
+
 ---
 
 ## 🍏 SWIFT PROJECT
