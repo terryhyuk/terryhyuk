@@ -13,6 +13,10 @@ Passionate about building robust and scalable systems. 🚀
 
 ## 🚀 FLUTTER PROJECT
 
+- [**Piggy Log - Smart Personal Ledger**](https://github.com/terryhyuk/piggy_log) 💰
+  **Key Features:** Multi-language support (KO, EN, JP, CN), SQLite local storage, and intuitive data visualization.
+  **Tech Stack:** Flutter, Dart, SQLite, GetX.
+
 - [Todo List - 오늘잊은거없나](https://github.com/glgl-1/todo_android)  
   A to-do list app with reminder notifications.
 
